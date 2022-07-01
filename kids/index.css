@@ -1,0 +1,16 @@
+h1 {
+  color: rgb(200, 100, 150);
+  background-color: azure;
+  font-size: 20px;
+  letter-spacing: 4;
+  font-weight: 300;
+  text-transform: uppercase;
+  padding: 10px 66px 20px;
+  margin: 40px;
+  border-width: 5px;
+  border-style: ridge;
+  border: 5px ridge red;
+}
+body {
+  font-family: "PT sherif", serif;
+}
